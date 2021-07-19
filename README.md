@@ -17,4 +17,4 @@ STEPS:
 2)EDIT the number as displayed in the console of the processing IDE to the code(arduino = new Arduino(this, Arduino.list()[0], 57600);)(By default it is set to first COM dispalyed on the console)
 3)Once connected you are ready to go on operation.
 
-
+FOR VIDEO DEMONSTRATION VISIT: https://www.linkedin.com/posts/piyush-tailor-b85ab9a7_automation-robotics-roboticarm-activity-6796056347885518848--bMR
